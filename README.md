@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ascaris29, j'ai 30 et je cherche à apprendre à develo des sites web artistique
 - 👀 I’m interested in les arts,
-- 🌱 I’m currently learning ...le html et le css. J'attend d'avoir bien intégré le css et je m'attaquerais à JAVASCRIPT.
+- 🌱 I’m currently learning ...le html et le css. J'attend d'avoir bien intégré le css et je m'attaquerrais à JAVASCRIPT
 
 - 💞️ I’m looking to collaborate on ...
 -
